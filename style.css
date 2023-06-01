@@ -29,8 +29,12 @@ h1{
   font-variant: small-caps;
   font-family: 'Acme',sans-serif;
 }
-.single-input{
+.single-input input{
   width: 100%;
   padding: 14px 10px;
   border: 1px solid rgba(0,0,0,0.3521);
+  margin-bottom: 10px;
+  font-size: 15px;
+  font-family: 'Roboto', sans-serif;
+  background: transparent;
 }
