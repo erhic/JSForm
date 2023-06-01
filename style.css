@@ -6,6 +6,9 @@
   padding:0;
   box-sizing: border-box;
 }
+body{
+  font-family: 'Open Sans';
+}
 .main-parent{
   width: 100%;
   height: 100vh;
