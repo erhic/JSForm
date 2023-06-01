@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+
 *{
   margin: 0;
   padding:0;
@@ -28,6 +31,7 @@ h1{
   margin-bottom: 15px;
   font-variant: small-caps;
   font-family: 'Acme',sans-serif;
+color: #81aae7;
 }
 .single-input input{
   width: 100%;
@@ -37,4 +41,18 @@ h1{
   font-size: 15px;
   font-family: 'Roboto', sans-serif;
   background: transparent;
+}
+.submit-btn{
+  text-align: center;
+  
+}
+.submit-btn button{
+  padding: 13px 30px;
+  background-color:#81aae7;
+  outline: none;
+  border: none;
+  color: #fff;
+  font-family: 'Roboto',sans-serif;
+  cursor: pointer;
+  font-size: 16px;
 }
