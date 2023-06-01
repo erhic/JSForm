@@ -9,4 +9,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  background-image: url(../JS_Form/Assets/shopping-cart.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
 }
