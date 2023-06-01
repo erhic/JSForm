@@ -44,7 +44,9 @@ color: #81aae7;
   font-size: 15px;
   font-family: 'Roboto', sans-serif;
   background: transparent;
+  outline: none;
 }
+
 .submit-btn{
   text-align: center;
   
