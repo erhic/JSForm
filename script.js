@@ -36,7 +36,7 @@ else{
     }else{
       Swal.fire(
         'Good Job!',
-        'Registration Successfu!',
+        'Registration Successful!',
         'success'
       );
       setTimeout(()=>{
@@ -52,7 +52,4 @@ else{
     )
   }
 }
-
-
-
 }
