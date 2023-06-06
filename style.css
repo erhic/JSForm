@@ -15,7 +15,7 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url('./shoppingcart.JPG');
+  background-image: url('shoppingcart.JPG');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top;
