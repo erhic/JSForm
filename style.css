@@ -6,8 +6,13 @@
   padding:0;
   box-sizing: border-box;
 }
+html,body {
+  margin:0;
+  background:rgba(0,0,0,0.9)
+}
 body{
   font-family: 'Open Sans';
+
 }
 .main-parent{
   width: 100%;
@@ -15,10 +20,11 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url('./Assets/eform.jpeg');
+  background-image: url('https://www.paisabazaar.com/wp-content/uploads/2017/10/Gold-Loan-vs-LAP.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top;
+  background-color: rgb(238, 235, 235);
 }
 .form-wrap{
   background-color: rgb(255 255 255 / 75%);
