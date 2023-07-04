@@ -1,3 +1,9 @@
+function fun(...game){
+  console.log(typeof game);
+}
+
+fun(10)
+
 
 const submitButton = document.querySelector('.button');// creating a variable for button to add a listener
 submitButton.onclick =(e)=>{
@@ -165,3 +171,4 @@ else{
   }
 }
 }
+
